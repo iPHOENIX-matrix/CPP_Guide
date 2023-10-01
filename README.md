@@ -1,3 +1,4 @@
+# Guys please don't contribute here as a part of Hacktoberfest 2023 as I just came to know that DSA-base repositories will be excluded from the program. I mentioned it in discussion but still people are contributing as a part of Hacktoberfest. Guys you can contribute to this Repository but it will NOT be counted as a valid subsmission for Hacktoberfest
 This Repository aims to provide codes in C++ programming language around Object Oriented Programming and Data Structures and Algorithms(DSA)
 
 # Resources
